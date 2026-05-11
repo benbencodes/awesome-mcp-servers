@@ -403,6 +403,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
 
+
+- <img src="https://raw.githubusercontent.com/benbencodes/llm-prices/main/docs/icon.png" alt="llm-prices" height="14"/> [llm-prices](https://github.com/benbencodes/llm-prices) - Query LLM API pricing across 138+ models and 22+ providers. Tools: get_model_pricing, calculate_api_cost, compare_models, find_cheapest_models, list_providers, search_llm_models. Zero-dependency; works offline.
 <br />
 
 ## 📊 <a name="data-visualization"></a>Data Visualization
